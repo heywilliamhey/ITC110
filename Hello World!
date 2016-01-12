@@ -1,3 +1,2 @@
-print("Halt!")
-user_input = input("Who goes there? ")
-print("Hello and welcome to the world of coding,",  user_input)
+name = raw_input('Hello! What is your name?\n')
+print'Hello and welcome to the world of coding, {0}!' .format(name)
