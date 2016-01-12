@@ -1,0 +1,3 @@
+print("Halt!")
+user_input = input("Who goes there? ")
+print("Hello and welcome to the world of coding,",  user_input)
